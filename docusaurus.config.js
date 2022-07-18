@@ -8,15 +8,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'netdb',
   tagline: 'netdb docs',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://github.com/github-noone/',
+  baseUrl: '/netdb/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'netdb', // Usually your GitHub org/user name.
+  organizationName: 'github-noone', // Usually your GitHub org/user name.
   projectName: 'netdb', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
