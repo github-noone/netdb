@@ -35,7 +35,7 @@ slug: ospf
 
 #### R1
 
-```
+```java
 hostname R1
 !
 interface Ethernet1
