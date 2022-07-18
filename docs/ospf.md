@@ -6,7 +6,7 @@ slug: ospf
 # Open Shortest Path First (OSPF)
 
 <p align="center">
-    <img width="460" height="300" src="/img/network diagrams/OSPF.svg"/>
+    <img width="460" height="300" src="/img/networkdiagrams/OSPF.svg"/>
 </p>
 
 **OSFP** is a link state routing protocol, which means the routers exchange information with their nearest neighbors using Link State Advertisements (LSAs) and populate the Link State Database (LSDB). 
@@ -30,7 +30,7 @@ slug: ospf
 ### Topology
 
 <p align="center">
-    <img width="500" height="500" src="/img/network diagrams/OSPFLab.svg"/>
+    <img width="500" height="500" src="/img/networkdiagrams/OSPFLab.svg"/>
 </p>
 
 #### R1

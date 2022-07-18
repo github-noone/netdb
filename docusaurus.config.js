@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'netdb',
   tagline: 'netdb docs',
-  url: 'https://github-noone.github.io',
-  baseUrl: '/netdb/',
+  url: 'https://your-docusaurus-test-site.com',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
