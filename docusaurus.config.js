@@ -9,7 +9,7 @@ const config = {
   title: 'netdb',
   tagline: 'netdb docs',
   url: 'https://github.com/github-noone',
-  baseUrl: '/netdb/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
