@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'netdb',
   tagline: 'netdb docs',
-  url: 'https://github.com/github-noone/',
+  url: 'https://github.com/github-noone',
   baseUrl: '/netdb/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
