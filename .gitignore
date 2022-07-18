@@ -2,8 +2,7 @@
 /node_modules
 
 # Production
-/docs
-/blog
+/build
 
 # Generated files
 .docusaurus
