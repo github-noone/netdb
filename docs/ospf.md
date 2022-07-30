@@ -24,6 +24,16 @@ slug: ospf
 * Type 7 - Not-so-stubby area LSA
 * Type 8 - External attribute LSA for BGP
 
+
+## Link State exchange 
+
+* Link State Request (LSR)
+
+* Link State Advertisement (LSA)
+
+* Link State Update (LSU)
+
+
 ## OSPF Lab 
 
 
